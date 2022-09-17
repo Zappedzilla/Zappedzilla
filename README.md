@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zappedzilla!
 - 👀 I’m interested in Python, Java, and C++
 - 🌱 I’m currently learning Python, Java, and C++
-- 💞️ I’m looking to collaborate on nothing as of now.
+- 💞️ I’m looking to collaborate on nothing.
 - 📫 How to reach me - you don't.
 
 <!---
